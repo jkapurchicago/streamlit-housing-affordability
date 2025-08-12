@@ -1,0 +1,22 @@
+county_fips,county_name,state,year,income_usd
+17031,Cook County,IL,2018,70000
+48453,Travis County,TX,2018,75000
+53033,King County,WA,2018,95000
+17031,Cook County,IL,2019,71966
+48453,Travis County,TX,2019,77583
+53033,King County,WA,2019,97228
+17031,Cook County,IL,2020,73153
+48453,Travis County,TX,2020,76770
+53033,King County,WA,2020,98175
+17031,Cook County,IL,2021,74724
+48453,Travis County,TX,2021,81070
+53033,King County,WA,2021,103576
+17031,Cook County,IL,2022,75466
+48453,Travis County,TX,2022,78494
+53033,King County,WA,2022,101537
+17031,Cook County,IL,2023,81458
+48453,Travis County,TX,2023,80750
+53033,King County,WA,2023,105118
+17031,Cook County,IL,2024,83977
+48453,Travis County,TX,2024,79780
+53033,King County,WA,2024,109257
